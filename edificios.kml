@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Oficinas Corporativas</name>
+    <Style id="icon-1531-F9A825-labelson">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Edificio Casa Gris</name>
+      <description><![CDATA[Dirección: 25 Av Norte y 23 Calle Poniente #1230 S.S. Contiguo a Edificio Centro Financiero<br>Contactos: ]]></description>
+      <styleUrl>#icon-1531-F9A825-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Dirección">
+          <value>25 Av Norte y 23 Calle Poniente #1230 S.S. Contiguo a Edificio Centro Financiero</value>
+        </Data>
+        <Data name="Contactos">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -89.2034991,13.7110368,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edificio CEFI</name>
+      <description><![CDATA[Dirección: 25 Av Norte y 23 Calle Poniente #1230 S.S. Edificio Centro Financiero<br><br>Contactos: ]]></description>
+      <styleUrl>#icon-1531-F9A825-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Dirección">
+          <value>25 Av Norte y 23 Calle Poniente #1230 S.S. Edificio Centro Financiero
+</value>
+        </Data>
+        <Data name="Contactos">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -89.20331,13.7113104,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edificio Metrocentro SS</name>
+      <description><![CDATA[Dirección: Boulevar Los Héroes y C. Sisimiles, San Salvador, Edificio Cuscatlán<br><br>Contactos: 75-9001]]></description>
+      <styleUrl>#icon-1531-F9A825-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Dirección">
+          <value>Boulevar Los Héroes y C. Sisimiles, San Salvador, Edificio Cuscatlán
+</value>
+        </Data>
+        <Data name="Contactos">
+          <value>75-9001</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -89.2118235,13.7073,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edificio Pirámide</name>
+      <description><![CDATA[Dirección: Km. 10½, Carretera a Santa Tecla, Edificio Pirámide, Ciudad Merliot, Santa Tecla<br>Contactos: Puerta Norte: 3992 | Caseta: 3991<br>Jose Salazar: 2202-3993 & 7946-6284    <br>]]></description>
+      <styleUrl>#icon-1531-F9A825-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Dirección">
+          <value>Km. 10½, Carretera a Santa Tecla, Edificio Pirámide, Ciudad Merliot, Santa Tecla</value>
+        </Data>
+        <Data name="Contactos">
+          <value><![CDATA[Puerta Norte: 3992 | Caseta: 3991
+Jose Salazar: 2202-3993 & 7946-6284    
+]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -89.2734023,13.6729587,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edificio Torre Olímpica</name>
+      <description><![CDATA[Dirección: Av. Olímpica #129 Frente a Redondel, Torre Olímpica<br><br>Contactos: Recepción: 4100 & 7852-8379<br>	Caseta: 1011]]></description>
+      <styleUrl>#icon-1531-F9A825-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Dirección">
+          <value>Av. Olímpica #129 Frente a Redondel, Torre Olímpica
+</value>
+        </Data>
+        <Data name="Contactos">
+          <value><![CDATA[Recepción: 4100 & 7852-8379
+	Caseta: 1011]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -89.2224363,13.698657,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edificio Venezuela</name>
+      <description><![CDATA[Dirección: Boulevard Jose Arturo Castellanos, #2950, S.S. Contiguo a Terminal de Occidente<br>Contactos: Caseta: 2202-3553 & 7987-9884 | Oficial BCR: 7609-0736    <br>]]></description>
+      <styleUrl>#icon-1531-F9A825-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Dirección">
+          <value>Boulevard Jose Arturo Castellanos, #2950, S.S. Contiguo a Terminal de Occidente</value>
+        </Data>
+        <Data name="Contactos">
+          <value><![CDATA[Caseta: 2202-3553 & 7987-9884 | Oficial BCR: 7609-0736    
+]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -89.2186777,13.6927674,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
